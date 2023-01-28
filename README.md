@@ -33,6 +33,8 @@ Contributor names and contact info
 
 ex. [googio](https://github.com/googio)
 
+Checkout the blog post on [building the scraper](https://serply.io/blog/scraping-google-job-board)
+
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
