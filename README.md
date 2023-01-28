@@ -31,7 +31,7 @@ python.exe google_jobs_scraper.py
 
 Contributor names and contact info
 
-ex. [googio](https://github.com/googio)
+ex. [bing-ly](https://github.com/bing-ly)
 
 Checkout the blog post on [building the scraper](https://serply.io/blog/scraping-google-job-board)
 
